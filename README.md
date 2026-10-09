@@ -59,7 +59,7 @@ git diff --check
 | 赫然·斗漫呢 | — |
 | 顾家僖 | — |
 | 窦玮琦 | — |
-| 吴思逸 | wsyyr-by |
+| 吴思逸 | [wsyyr-by ](https://github.com/wsyyr-by)|
 | 龚思浓 | — |
 | 王思怡 | — |
 | 陆雯宇 | — |
